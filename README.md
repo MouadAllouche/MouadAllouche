@@ -40,9 +40,9 @@ React.js · Express.js
 > _"Discipline, persistence, and curiosity — the foundation of every fighter."_ 🥋
 
 ---
-
-### 🧭 Profile Stats (optional section — uncomment if you’d like to use)
 <!--
+### 🧭 Profile Stats (optional section — uncomment if you’d like to use)
+
 ![Mouad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
 -->
